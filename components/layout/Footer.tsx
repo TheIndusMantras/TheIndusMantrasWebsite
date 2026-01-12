@@ -106,8 +106,8 @@ export default function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="flex items-center">
               <Mail className="mr-3 text-primary" size={20} />
-              <a href="mailto:info@brightedgemedia.com" className="text-gray-300 hover:text-primary transition-colors duration-300">
-                info@brightedgemedia.com
+              <a href="mailto:info@The Indus Mantrasmedia.com" className="text-gray-300 hover:text-primary transition-colors duration-300">
+                info@The Indus Mantrasmedia.com
               </a>
             </div>
             <div className="flex items-center">
@@ -125,7 +125,7 @@ export default function Footer() {
         
         {/* Copyright */}
         <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} BrightEdge Media. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} The Indus Mantras Media. All rights reserved.</p>
         </div>
       </div>
     </footer>

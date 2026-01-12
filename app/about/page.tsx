@@ -6,19 +6,19 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Us | BrightEdge Media',
+  title: 'About Us | The Indus Mantras Media',
   description: 'Learn about our digital marketing agency, our mission, and the team behind our success.',
 };
 
 const leadership = [
   {
-    name: 'Sarah Johnson',
+    name: 'Shivani Srivastava',
     position: 'CEO & Founder',
     bio: 'Former Google marketing strategist with 15+ years of experience in digital marketing leadership.',
     image: 'https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=400&h=400'
   },
   {
-    name: 'David Chen',
+    name: 'Shruti Srivastava',
     position: 'Chief Strategy Officer',
     bio: 'Data scientist turned marketing strategist with expertise in predictive analytics and growth marketing.',
     image: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=400&h=400'
@@ -88,7 +88,7 @@ export default function AboutPage() {
         <div className="container">
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-1/2">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">About BrightEdge Media</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-6">About The Indus Mantras Media</h1>
               <p className="text-xl text-muted-foreground mb-8">
                 We're a team of digital marketing experts passionate about helping brands grow through data-driven strategies.
               </p>
@@ -102,7 +102,7 @@ export default function AboutPage() {
               <div className="relative h-[400px] w-full rounded-lg overflow-hidden shadow-xl">
                 <Image
                   src="https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1000&h=800"
-                  alt="BrightEdge Media Team"
+                  alt="The Indus Mantras Media Team"
                   fill
                   className="object-cover"
                 />
@@ -128,7 +128,7 @@ export default function AboutPage() {
                 />
               </div>
               <div className="absolute bottom-8 right-8 bg-white p-6 shadow-xl rounded-lg max-w-xs">
-                <p className="text-xl font-bold text-primary mb-2">Founded in 2020</p>
+                <p className="text-xl font-bold text-primary mb-2">Founded in 2026</p>
                 <p>From a small team of 3 to an award-winning agency of 25+ digital experts</p>
               </div>
             </div>
@@ -141,7 +141,7 @@ export default function AboutPage() {
               
               <div className="space-y-6 text-lg">
                 <p>
-                  BrightEdge Media was founded in 2020 by a team of digital marketing veterans who shared a vision: to create a marketing agency that puts data and measurable results at the forefront of every strategy.
+                  The Indus Mantras Media was founded in 2026 by a team of digital marketing veterans who shared a vision: to create a marketing agency that puts data and measurable results at the forefront of every strategy.
                 </p>
                 <p>
                   We noticed that most agencies were focused on vanity metrics rather than business outcomes. Our approach was different from day one – we promised clients specific results tied to their business goals, not just increased likes or impressions.

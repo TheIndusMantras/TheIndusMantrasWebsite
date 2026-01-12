@@ -246,10 +246,10 @@ export default function ContactPage() {
                     <div>
                       <h3 className="font-semibold text-lg mb-1">Email</h3>
                       <p className="text-muted-foreground">
-                        info@brightedgemedia.com
+                        info@TheIndusMantras.com
                       </p>
                       <p className="text-muted-foreground mt-1">
-                        support@brightedgemedia.com
+                        support@TheIndusMantras.com
                       </p>
                     </div>
                   </CardContent>
@@ -279,7 +279,7 @@ export default function ContactPage() {
         <div className="container">
           <div className="aspect-[16/9] w-full h-[400px] rounded-lg overflow-hidden shadow-lg">
             <iframe 
-              title="BrightEdge Media Office Location"
+              title="TheIndusMantras Office Location"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.315540303!2d-74.25987368715491!3d40.69767006458873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2suk!4v1617979144877!5m2!1sen!2suk" 
               width="100%" 
               height="100%" 
@@ -299,7 +299,7 @@ export default function ContactPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
             {[
               {
-                q: "What makes BrightEdge Media different from other agencies?",
+                q: "What makes The Indus Mantras different from other agencies?",
                 a: "We focus exclusively on data-driven marketing solutions with measurable results. Unlike agencies that prioritize vanity metrics, we tie our strategies directly to your business goals and ROI."
               },
               {

@@ -7,7 +7,7 @@ import CtaSection from '@/components/home/CtaSection';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'BrightEdge Media | Data-Driven Digital Marketing Agency',
+  title: 'The Indus Mantras Media | Data-Driven Digital Marketing Agency',
   description: 'Transform your digital presence with our data-driven marketing solutions for ambitious brands.',
   keywords: 'digital marketing, SEO, content marketing, social media, paid advertising',
 };

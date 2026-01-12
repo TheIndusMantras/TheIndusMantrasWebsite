@@ -6,7 +6,7 @@ import Link from 'next/link';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Services | BrightEdge Media',
+  title: 'Services | TheIndusMantras',
   description: 'Explore our comprehensive digital marketing services including SEO, content marketing, social media, and paid advertising strategies.',
 };
 
