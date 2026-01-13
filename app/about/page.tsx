@@ -88,9 +88,10 @@ export default function AboutPage() {
         <div className="container">
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="lg:w-1/2">
-              <h1 className="text-4xl md:text-5xl font-bold mb-6">About The Indus Mantras Media</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-6">About The Indus Mantras</h1>
               <p className="text-xl text-muted-foreground mb-8">
-                We're a team of digital marketing experts passionate about helping brands grow through data-driven strategies.
+                By working in close partnership with our clients, we proactively anticipate their needs and source talent with the skills that matter most. 
+                Leveraging technology allows us to deliver added value and respond swiftly to changing workplace requirements.
               </p>
               <Button asChild size="lg">
                 <Link href="/contact">
