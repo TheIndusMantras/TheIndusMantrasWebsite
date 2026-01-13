@@ -7,14 +7,14 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Services | TheIndusMantras',
-  description: 'Explore our comprehensive digital marketing services including SEO, content marketing, social media, and paid advertising strategies.',
+  description: 'Explore our comprehensive digital marketing services including SEO, content marketing, social media, and Industry-Specific Recruitment Solutions strategies.',
 };
 
 const services = [
   {
     id: 'digital-strategy',
-    title: 'Digital Strategy',
-    description: 'Comprehensive digital plans tailored to your business goals and target audience.',
+    title: 'Executive Search & Leadership Hiring',
+    description: 'We specialize in identifying seasoned and proven executives who drive long-term value. Our industry experts assess candidates on both technical and behavioral competencies, ensuring the right leadership fit for your organization’s culture and strategy.',
     icon: BarChart3,
     color: 'bg-blue-50 text-primary border-primary/20',
     benefits: [
@@ -38,8 +38,8 @@ const services = [
   },
   {
     id: 'seo-content',
-    title: 'SEO & Content',
-    description: 'Increase visibility with search-optimized content that engages and converts.',
+    title: 'Mass & Volume Hiring Solutions',
+    description: 'We deliver large-scale recruitment rollouts across multiple sectors with speed and reliability. Our proven mass hiring capabilities help organizations efficiently meet high-volume staffing needs while maintaining quality and consistency.',
     icon: Search,
     color: 'bg-green-50 text-green-600 border-green-200',
     benefits: [
@@ -63,8 +63,8 @@ const services = [
   },
   {
     id: 'social-media',
-    title: 'Social Media Marketing',
-    description: 'Build brand awareness and engagement across relevant social platforms.',
+    title: 'Talent Mapping & Strategic Workforce Planning',
+    description: 'We enable clients to redistribute staffing needs and focus on core business growth. By anticipating workforce requirements, we help organizations build strong middle and senior management layers aligned with future goals.',
     icon: Share2,
     color: 'bg-purple-50 text-purple-600 border-purple-200',
     benefits: [
@@ -88,8 +88,8 @@ const services = [
   },
   {
     id: 'paid-advertising',
-    title: 'Paid Advertising',
-    description: 'Targeted ad campaigns that maximize ROI and drive qualified traffic.',
+    title: 'Industry-Specific Recruitment Solutions',
+    description: 'With over 100 years of combined executive search experience, we support hiring across industries such as technology, manufacturing, energy, healthcare, financial services, retail, education, real estate, and more—leveraging our extensive national network and validated talent database.',
     icon: LineChart,
     color: 'bg-orange-50 text-orange-600 border-orange-200',
     benefits: [

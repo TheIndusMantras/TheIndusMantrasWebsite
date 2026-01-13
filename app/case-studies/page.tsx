@@ -16,7 +16,7 @@ const caseStudies = [
     title: 'E-commerce SEO Revamp',
     client: 'FashionForward',
     industry: 'Retail',
-    service: 'SEO & Content',
+    service: 'Mass & Volume Hiring Solutions',
     description: 'How we increased organic traffic by 215% and boosted conversions for a leading fashion retailer.',
     image: 'https://images.pexels.com/photos/6956800/pexels-photo-6956800.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
     results: ['215% organic traffic increase', '86% higher conversion rate', '143% revenue growth'],
@@ -26,7 +26,7 @@ const caseStudies = [
     title: 'B2B Lead Generation',
     client: 'TechSolutions',
     industry: 'Technology',
-    service: 'Paid Advertising',
+    service: 'Industry-Specific Recruitment Solutions',
     description: 'Implementing a multi-channel advertising strategy that slashed cost-per-lead by 53%.',
     image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
     results: ['53% lower cost-per-lead', '128% increase in qualified leads', '76% higher close rate'],
@@ -46,7 +46,7 @@ const caseStudies = [
     title: 'Local SEO Campaign',
     client: 'CityDental',
     industry: 'Healthcare',
-    service: 'SEO & Content',
+    service: 'Mass & Volume Hiring Solutions',
     description: 'Boosting local visibility and appointment bookings for a dental practice with multiple locations.',
     image: 'https://images.pexels.com/photos/3912954/pexels-photo-3912954.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
     results: ['320% increase in local search visibility', '73% more appointment requests', '4.8 average Google rating'],
@@ -56,7 +56,7 @@ const caseStudies = [
     title: 'SaaS Growth Marketing',
     client: 'CloudManager',
     industry: 'Technology',
-    service: 'Digital Strategy',
+    service: 'Executive Search & Leadership Hiring',
     description: 'Comprehensive marketing strategy that accelerated user acquisition for a B2B SaaS platform.',
     image: 'https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
     results: ['96% increase in MQLs', '58% reduction in CAC', '23% higher trial-to-paid conversion'],
@@ -66,7 +66,7 @@ const caseStudies = [
     title: 'Nonprofit Digital Fundraising',
     client: 'EarthGuardians',
     industry: 'Nonprofit',
-    service: 'Paid Advertising',
+    service: 'Industry-Specific Recruitment Solutions',
     description: 'Digital campaign that significantly increased donations and supporter acquisition.',
     image: 'https://images.pexels.com/photos/3228766/pexels-photo-3228766.jpeg?auto=compress&cs=tinysrgb&w=800&h=600',
     results: ['243% increase in online donations', '87% decrease in donation acquisition cost', '12,000+ new supporters'],
@@ -74,7 +74,7 @@ const caseStudies = [
 ];
 
 const industries = ['All Industries', 'Retail', 'Technology', 'Food & Beverage', 'Healthcare', 'Nonprofit'];
-const services = ['All Services', 'Digital Strategy', 'SEO & Content', 'Social Media', 'Paid Advertising'];
+const services = ['All Services', 'Executive Search & Leadership Hiring', 'Mass & Volume Hiring Solutions', 'Social Media', 'Industry-Specific Recruitment Solutions'];
 
 export default function CaseStudiesPage() {
   const [selectedIndustry, setSelectedIndustry] = useState('All Industries');

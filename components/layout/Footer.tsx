@@ -11,10 +11,10 @@ import {
 import Logo from './Logo';
 
 const services = [
-  { name: 'Digital Strategy', href: '/services#digital-strategy' },
-  { name: 'SEO & Content', href: '/services#seo-content' },
-  { name: 'Social Media Marketing', href: '/services#social-media' },
-  { name: 'Paid Advertising', href: '/services#paid-advertising' },
+  { name: 'Executive Search & Leadership Hiring', href: '/services#digital-strategy' },
+  { name: 'Mass & Volume Hiring Solutions', href: '/services#seo-content' },
+  { name: 'Talent Mapping & Strategic Workforce Planning', href: '/services#social-media' },
+  { name: 'Industry-Specific Recruitment Solutions', href: '/services#paid-advertising' },
 ];
 
 const company = [
