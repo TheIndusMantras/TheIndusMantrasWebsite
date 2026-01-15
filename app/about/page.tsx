@@ -13,13 +13,13 @@ export const metadata: Metadata = {
 const leadership = [
   {
     name: 'Ms. Shivani Srivastava',
-    position: 'CEO & Founder',
+    position: 'CEO & Co-Founder',
     bio: 'Former Google marketing strategist with 15+ years of experience in digital marketing leadership.',
     image: 'https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=400&h=400'
   },
   {
     name: 'Shruti Srivastava',
-    position: 'Chief Strategy Officer',
+    position: 'Chief Strategy Officer and Co-Founder',
     bio: 'Data scientist turned marketing strategist with expertise in predictive analytics and growth marketing.',
     image: 'https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&w=400&h=400'
   },
